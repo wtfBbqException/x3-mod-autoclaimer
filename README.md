@@ -19,7 +19,11 @@ There are quite a few other mods that do similar things (e.g. the Salvage Suite,
 ## Installation
 
 Extract the `.zip` file.
-Then copy the `script` folder into the base game directory (in the case of X3TC) or into the `addon` folder under the base game directory (in the case of X3AP).
+
+Then copy the `script` folder into:
+- the base game directory (in the case of X3TC) or
+- into the `addon` folder under the base game directory (in the case of X3AP).
+
 You need to have tagged your game as ***modified*** (a lot of other mods do this already), otherwise check the web for instructions (keyword 'Thereshallbewings').
 
 ## Update
